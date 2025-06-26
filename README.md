@@ -1,20 +1,14 @@
-# Seja bem vindo(a)!
+# Olá!
+---------------
+<h3>Linguagens</h3>
 
-<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<a href="https://www.linkedin.com/in/n4ch77/" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="https://gitlab.com/n4ch77" target="_blank">
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-</a> 
-<a href="https://www.instagram.com/n4ch77/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> 
+<h3>Redes Sociais</h3>
 
-<h2>💻Linguagens</h2>
-
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n4ch77/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n4ch77/)
 
 
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4CH77&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
