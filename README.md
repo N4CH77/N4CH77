@@ -1,7 +1,5 @@
 <a href="https://github.com/N4CH77/crud-atividade-extra">
- <img align="right" width="150" src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.gif">
 </a>
-
 <samp>
  <h3>👋 Olá! Eu sou o David Augusto (N4CH77)</h3>
  
@@ -13,9 +11,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n4ch77/)
 
 ---
-
+ <img align="right" width="120" src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.gif">
 <details>
- <summary>🛠️ Linguagens & Tecnologias</summary>
+ <summary>🛠️ Linguagens</summary>
  <br>
  <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
