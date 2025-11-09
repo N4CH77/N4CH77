@@ -5,7 +5,7 @@
 <samp>
  <h3>👋 Olá! Eu sou o David Augusto (N4CH77)</h3>
  
- Estudante de Engenharia de Computação na UniJorge, focado em **Cibersegurança & Progamação em Back-end**.
+ Estudante de Engenharia de Computação na UniJorge, focado em **Cibersegurança, IOT & Progamação em Back-End**.
 </samp>
 
 <br><br>
