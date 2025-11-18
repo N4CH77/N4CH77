@@ -32,8 +32,9 @@
 <details>
  <summary>📊 Minhas Estatísticas</summary>
  <br>
- <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4CH77&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true" alt="Top Langs"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=N4CH77&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
- </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N4CH77&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=N4CH77&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=N4CH77&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 </details>
